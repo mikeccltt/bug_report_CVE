@@ -39,5 +39,5 @@ Content-Disposition: form-data; name="status"
 
 ```
 
-![](https://github.com/mikeccltt/badminton-center-management-system/blob/main/sql.gif?raw=true)
+![](https://github.com/mikeccltt/bug_report_CVE/blob/main/Covid-19-Travel-Pass-Management-System/sql.gif?raw=true)
 
