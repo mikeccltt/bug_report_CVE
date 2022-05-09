@@ -64,4 +64,4 @@ Content-Type: application/octet-stream
 
 ```
 
-![](https://github.com/mikeccltt/badminton-center-management-system/blob/main/xss.gif?raw=true)
+![](https://github.com/mikeccltt/bug_report_CVE/blob/main/Covid-19-Travel-Pass-Management-System/xss.gif?raw=true)
