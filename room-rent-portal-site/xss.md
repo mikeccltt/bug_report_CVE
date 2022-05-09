@@ -43,4 +43,4 @@ Content-Disposition: form-data; name="status"
 
 ```
 
-![](https://github.com/mikeccltt/badminton-center-management-system/blob/main/xss.gif?raw=true)
+![](https://github.com/mikeccltt/bug_report_CVE/blob/main/room-rent-portal-site/xss.gif?raw=true)
